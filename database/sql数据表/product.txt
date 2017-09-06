@@ -1,0 +1,4 @@
+"topTitle"	"topTileName"	"topSubStatus"
+"match"	"搭配"	"hotgoods"
+"accessories"	"配件"	"hot"
+"around"	"周边"	"hotcloths"

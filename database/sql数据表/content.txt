@@ -1,0 +1,5 @@
+"id"	"title"	"type"
+"1"	"图书"	"book"
+"2"	"MIUI主题"	"theme"
+"3"	"游戏"	"game"
+"4"	"应用"	"app"

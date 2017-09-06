@@ -1,0 +1,5 @@
+"id"	"title"	"videoUrl"	"imgUrl"	"videotitle"	"desc"
+"1"	"视频"	"http://hd.mi.com/f/zt/hd/misc/youku.html?vid=XMTY1ODg5ODA0MA=="	"http://i3.mifile.cn/a4/73d67577-cbc7-4bd0-8678-4b1e95f4f4dc"	"红米年度品牌视频"	"一亿人喜爱你，是一种责任。"
+"2"	"视频"	"http://hd.mi.com/f/zt/hd/misc/youku.html?vid=XMTY1OTg3NjQ4OA=="	"http://i3.mifile.cn/a4/f7e434fb-8ce4-4442-bf78-0d66e409dfc3"	"小米笔记本Air最全介绍视频"	"带独立显卡的轻薄笔记本"
+"3"	"视频"	"http://hd.mi.com/f/zt/hd/misc/youku.html?vid=XMTY1OTg4NjY0OA=="	"http://i3.mifile.cn/a4/e2df3ad8-4147-44e1-8a54-b6bcafdc6c66"	"小米笔记本Air可靠性测试视频"	"小米笔记本Air是如何炼成的？"
+"4"	"视频"	"http://hd.mi.com/f/zt/hd/misc/youku.html?vid=XMTU2NDM3NjEzMg=="	"http://i3.mifile.cn/a4/T1v3LgBTxv1RXrhCrK.jpg"	"小米Max 绝美外观视频"	"6.44"" 大屏黄金尺寸，看什么都震撼"

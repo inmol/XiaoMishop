@@ -1,0 +1,7 @@
+"topTitle"	"sourceUrl"	"imgUrl"
+"match"	"//www.mi.com/dianyuan10000/"	"http://i3.mifile.cn/a4/54581b2c-f88d-4415-9754-af83116346bd"
+"match"	"//www.mi.com/capsuleearphone/"	"http://i3.mifile.cn/a4/f7da6234-7159-414a-a2ea-8832af89b4f1"
+"accessories"	"//list.mi.com/30"	"http://i3.mifile.cn/a4/aa163c95-2890-4227-967c-a05ccec6c4a9"
+"accessories"	"//www.mi.com/powerstrip/"	"http://i3.mifile.cn/a4/363032e6-b043-4854-a8cc-8909df918f02"
+"around"	"//list.mi.com/22"	"http://i3.mifile.cn/a4/ff2a2f99-2c69-4472-acc1-e16322ee79ba"
+"around"	"//list.mi.com/23"	"http://i3.mifile.cn/a4/c2b64ac9-0b29-4158-a4ab-66aca1720916"
